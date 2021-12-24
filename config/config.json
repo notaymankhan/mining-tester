@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0xb89D9F0117B1b9e07cE382F829f4B809cf19d01A",
+    "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb89D9F0117B1b9e07cE382F829f4B809cf19d01A",
+    "NETWORK": {
+        "NAME": "Rinkeby Test net",
+        "SYMBOL": "Ehereum",
+        "ID": 4
+    },
+    "NFT_NAME": "MetababiesClub",
+    "SYMBOL": "Metababy",
+    "MAX_SUPPLY": 3848,
+    "WEI_COST": 50000000000000000,
+    "DISPLAY_COST": 0.05,
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "Opeasea",
+    "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mbctest",
+    "SHOW_BACKGROUND": true
+}
